@@ -42,7 +42,7 @@
 
 ## 📃 Backlog
 
-<img src="images/backlogs/backlog.jpeg" />
+<img src="images/backlog/backlog.jpeg" />
 
 <br>
 
